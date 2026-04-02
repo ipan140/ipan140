@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ivano and I'm a Developer, from Indonesia.</h2>
+<h2 align="left">Hi 👋! My name is Ivano Rossi Sugiyanto and I'm a Developer, from Indonesia.</h2>
 
 ###
 

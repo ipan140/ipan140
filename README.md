@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Ivano Rossi Sugiyanto and I'm a Developer, from Indonesia.</h2>
+<h2 align="left">Hi 👋! My name is Ivano and I'm a Developer, from Indonesia.</h2>
 
 ###
 
-<img align="left" height="150" src="https://i.pinimg.com/originals/c5/ee/51/c5ee5152fd8575cd966fa258addca1a1.gif"  />
+<img align="left" height="150" src="https://i.pinimg.com/originals/09/63/63/096363e6a6a26da7a6be2862e197e691.gif"  />
 
 ###
 

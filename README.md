@@ -70,8 +70,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/ipan140/ipan140/output/snake.svg" alt="Snake animation" />
 
 ###

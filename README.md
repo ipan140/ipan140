@@ -1,5 +1,5 @@
 <!-- <h2 align="left">Hi 👋, I'm Ivano<br>Developer | Indonesia 🇮🇩 | Turning coffee into code ☕💻</h2> -->
-<h2 align="left">My Playlist Song</h2>
+<h2 align="center">My Playlist Song</h2>
 
 ###
 

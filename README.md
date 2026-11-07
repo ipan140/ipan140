@@ -1,5 +1,5 @@
 <!-- <h2 align="left">Hi 👋, I'm Ivano<br>Developer | Indonesia 🇮🇩 | Turning coffee into code ☕💻</h2> -->
-<h3 align="center">🎧 Currently On Repeat</h3> 
+<!-- <h3 align="center">🎧 Currently On Repeat</h3>  -->
 <p align="center">
   <img src="https://img.shields.io/badge/Spotify-Currently_On_Repeat-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
 </p>
